@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ESTRUCTURA_DATOS\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj": {}
+    "E:\\UEA-L-UFB-032-C\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj": {}
   },
   "projects": {
-    "E:\\ESTRUCTURA_DATOS\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj": {
+    "E:\\UEA-L-UFB-032-C\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ESTRUCTURA_DATOS\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj",
+        "projectUniqueName": "E:\\UEA-L-UFB-032-C\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj",
         "projectName": "SEMANA6_EJERCICIO_2",
-        "projectPath": "E:\\ESTRUCTURA_DATOS\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj",
+        "projectPath": "E:\\UEA-L-UFB-032-C\\SEMANA6_EJERCICIO_2\\SEMANA6_EJERCICIO_2.csproj",
         "packagesPath": "C:\\Users\\jfern\\.nuget\\packages\\",
-        "outputPath": "E:\\ESTRUCTURA_DATOS\\SEMANA6_EJERCICIO_2\\obj\\",
+        "outputPath": "E:\\UEA-L-UFB-032-C\\SEMANA6_EJERCICIO_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jfern\\AppData\\Roaming\\NuGet\\NuGet.Config"
