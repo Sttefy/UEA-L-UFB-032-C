@@ -1,0 +1,14 @@
+E:\ESTRUCTURA_DATOS\SEMANA1\bin\Debug\net9.0\SEMANA1.exe
+E:\ESTRUCTURA_DATOS\SEMANA1\bin\Debug\net9.0\SEMANA1.deps.json
+E:\ESTRUCTURA_DATOS\SEMANA1\bin\Debug\net9.0\SEMANA1.runtimeconfig.json
+E:\ESTRUCTURA_DATOS\SEMANA1\bin\Debug\net9.0\SEMANA1.dll
+E:\ESTRUCTURA_DATOS\SEMANA1\bin\Debug\net9.0\SEMANA1.pdb
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.AssemblyInfoInputs.cache
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.AssemblyInfo.cs
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.csproj.CoreCompileInputs.cache
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.dll
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\refint\SEMANA1.dll
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.pdb
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\SEMANA1.genruntimeconfig.cache
+E:\ESTRUCTURA_DATOS\SEMANA1\obj\Debug\net9.0\ref\SEMANA1.dll
