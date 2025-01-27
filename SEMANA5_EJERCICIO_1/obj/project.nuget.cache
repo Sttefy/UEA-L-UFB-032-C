@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fi0hG7OaIkw=",
+  "success": true,
+  "projectFilePath": "E:\\UEA-L-UFB-032-C\\SEMANA5_EJERCICIO_1\\SEMANA5_EJERCICIO_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jfern\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jfern\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
