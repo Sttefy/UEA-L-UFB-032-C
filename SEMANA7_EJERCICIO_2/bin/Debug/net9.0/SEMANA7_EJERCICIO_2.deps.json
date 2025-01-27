@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SEMANA7_EJERCICIO_2/1.0.0": {
+        "runtime": {
+          "SEMANA7_EJERCICIO_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMANA7_EJERCICIO_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
